@@ -8,8 +8,8 @@
   "map": ["config"],
   "options": {
     "target": null,
-    "username": null,
-    "password": ""
+    "username": "feifeixp",
+    "password": "ffxp1982"
   },
   "schema": {
     "target": "url",
