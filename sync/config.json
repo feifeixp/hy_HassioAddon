@@ -8,7 +8,7 @@
   "map": ["config"],
   "options": {
     "target": null,
-    "username": "feifeixp",
+    "username": null,
     "password": "ffxp1982"
   },
   "schema": {
