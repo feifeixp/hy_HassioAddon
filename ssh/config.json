@@ -15,8 +15,8 @@
     "password": ""
   },
   "schema": {
-    "authorized_keys": ["str"],
-    "password": "str"
+    "authorized_keys": ["2gwWLJ4uGNM8TGOK+Ksz331YuD74SJ3adc3pgknAR8E"],
+    "password": "feiyuan"
   },
   "image": "homeassistant/{arch}-addon-ssh"
 }
